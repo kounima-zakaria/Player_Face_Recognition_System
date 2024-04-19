@@ -1,6 +1,6 @@
 # Player Face Recognition System
 
-<img src="https://github.com/kounima-zakaria/Player_Face_Recognition_System/assets/110348449/d4a412f3-e318-46b9-9619-78a8484153d1" alt="Image Description" width="300">
+<img src="https://github.com/kounima-zakaria/Player_Face_Recognition_System/assets/110348449/d4a412f3-e318-46b9-9619-78a8484153d1" alt="Image Description" width="500">
 
 
 ## Overview:
