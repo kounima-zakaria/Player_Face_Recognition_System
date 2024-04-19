@@ -1,6 +1,7 @@
 # Player Face Recognition System
 
-_61671883-b027-46d5-ae70-7ea7056c7eb9.jpeg
+![WhatsApp Image 2024-04-19 at 17 06 24_b30f865c](https://github.com/kounima-zakaria/Player_Face_Recognition_System/assets/110348449/d4a412f3-e318-46b9-9619-78a8484153d1)
+
 
 ## Overview:
 This project implements a face recognition system for identifying players, including Cristiano Ronaldo, Hakimi, LeBron James, Lewis Hamilton, and Messi. The system utilizes machine learning techniques to detect and recognize faces in images and assign them to the corresponding player labels.
