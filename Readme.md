@@ -1,6 +1,6 @@
 # Player Face Recognition System
 
-![WhatsApp Image 2024-04-19 at 17 06 24_b30f865c](https://github.com/kounima-zakaria/Player_Face_Recognition_System/assets/110348449/d4a412f3-e318-46b9-9619-78a8484153d1)
+<img src="[https://example.com/image.jpg](https://github.com/kounima-zakaria/Player_Face_Recognition_System/assets/110348449/d4a412f3-e318-46b9-9619-78a8484153d1)" alt="Image Description" width="300">
 
 
 ## Overview:
